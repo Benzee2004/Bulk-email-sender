@@ -8,7 +8,6 @@ emailUser = input('Enter your email\n')
 And you need to generate an app password""" 
 
 emailPassword = input("Enter your Password\n")
-rec =[]
 reciever = input('Email list of email without comma\n').split()
 reciever.append
 
